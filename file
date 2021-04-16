@@ -1,8 +1,8 @@
 started line
-}
+}   {editor dev2}
       entered line
-      {
+      {  [hello.dev2]
     someother line
     {
-ended    
+ended    [ntg.dev2]
 
